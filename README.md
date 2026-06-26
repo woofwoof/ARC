@@ -1,2 +1,2 @@
 # ARC
-Autonomous Repository Collection
+Autonomous Robot Collective
